@@ -1,15 +1,14 @@
 baseURL: https://euler-b.pages.dev
 languageCode: en-us
-title: Euler-B site
+title: Euler-B
 theme: hugo-profile
-fav: "/themes/hugo-profile/static/fisico.png"
 publishDir: public
 
 params:
+ favicon: images/infinito.png
  title: "Eduardo Bravo"
  navbar:
     disableSearch: true
-
  hero:
     enable: true
     intro: "Hi, my name is"
