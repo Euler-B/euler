@@ -1,0 +1,17 @@
+# archives generate with hugo and the theme
+.hugo_build.lock
+public/
+resources/_gen/
+
+# tmp archives
+tmp/
+.cache/
+
+# builds on JS
+node_modules/
+vendor/
+package-lock.json
+
+# IDE and Editors
+.vscode/
+.idea/
