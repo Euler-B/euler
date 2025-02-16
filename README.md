@@ -6,3 +6,5 @@ This repository reflects the ongoing development of my personal website, where I
 ## Credits 
 - Template: [Hugo Profile](https://github.com/gurusabarish/hugo-profile)
 ## License
+Distributed under the MIT License. See [LICENSE](LICENSE) file for more
+information.
