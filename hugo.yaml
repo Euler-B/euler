@@ -18,7 +18,7 @@ params:
     image: images/profile_pic_latam_fest.jpg
     bottomImage:
       enable: true
-    roundImage: true # Make hero image circular | default false
+    roundImage: true
     button:
       enable: true
       name: "Resume"
@@ -33,4 +33,23 @@ params:
           url: https://x.com/E_uler
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/eduardo-jose-bravo-bravo/
+    
+ about:
+  enable: true
+  title: "About Me"
+  image: images/profile_pic_latam_fest.jpg
+  content: |-
+        I am a software developer passionate about backend development and distributed systems. With a background in computer science and mathematics, I have a strong interest in the intersection of technology and art. Currently, I work as a freelance software developer based in Merida, Venezuela.
+
+        Currently, I am also a collaborator at Solana Allstars Venezuela and a maintainer of the Golang Venezuela community.
+  skills:
+      enable: true
+      title: "Here are a few technologies I've been working with recently:"
+      items:
+        - "Go"
+        - "Rust"
+        - "Zig"
+        - "Sqlite"
+        - "Postgres"
+        - "Docker"
 
